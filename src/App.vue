@@ -5,7 +5,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <header>
-    <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
+    <img alt="Vue logo" style="background-color: white;" class="logo" src="./assets/logoCCI.svg" width="125" height="125" />
 
     <div class="wrapper">
       <HelloWorld msg="C3I is on the internet" />
